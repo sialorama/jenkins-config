@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sialorama/node-jenkins-docker.git"
+    "url": "git+https://github.com/sialorama/node-jenkins.git"
   },
   "keywords": [
     "node",
@@ -23,9 +23,9 @@
   "author": "sialorama",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sialorama/node-jenkins-docker/issues"
+    "url": "https://github.com/sialorama/node-jenkins.git/issues"
   },
-  "homepage": "https://github.com/sialorama/node-jenkins-docker#readme"
+  "homepage": "https://github.com/sialorama/node-jenkins#readme"
   
 }
 
