@@ -1,8 +1,0 @@
-/my-node-app
-├── /src
-│   └── server.js          # Ton fichier serveur principal
-├── /test
-│   └── server.test.js     # Tests pour ton serveur
-├── package.json
-└── README.md
-
